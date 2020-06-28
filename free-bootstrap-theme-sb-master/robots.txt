@@ -1,0 +1,3 @@
+User-agent: *
+Allow:/
+Sitemap : https://sangiee.netlify.app/sitemap.xml
